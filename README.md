@@ -14,7 +14,7 @@ Soy un estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**
 
 ## 🛠️ Habilidades técnicas
 - **Sistemas operativos**: Linux (Ubuntu), Windows Server.
-- **Redes**: Configuración de routers y switches (Cisco Packet Tracer).
+- **Servicios de red a internet**: Configuración de routers y switches (Cisco Packet Tracer).
 - **Virtualización**: VirtualBox.
 - **Lenguajes**: HTML, CSS, JavaScript.
 - **Bases de datos**: MySQL, MariaDB.
