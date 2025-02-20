@@ -18,6 +18,7 @@ Soy un estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**
 - **Virtualización**: VirtualBox.
 - **Lenguajes**: HTML, CSS, JavaScript.
 - **Bases de datos**: MySQL, MariaDB.
+- **Ciberseguridad**:Nmap.
 
 ## 📂 Proyectos destacados
 ### 1. **Proyecto TFG (Trabajo  fin de grado)**
