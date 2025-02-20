@@ -34,7 +34,7 @@ Soy un estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**
 - Diseñada con HTML Y CSS.
 
 ## 📚 Objetivos
-- Ampliar conocimientos en la imformática.
+- Ampliar conocimientos en la informática.
 - Desarrollar mis conocimientos en un entorno profesional.
 
 ## 🌐 Encuéntrame en:
