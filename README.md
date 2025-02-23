@@ -9,34 +9,31 @@ Soy un estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**
   - Administración de sistemas Linux y Windows.
   - Virtualización con herramientas como  VirtualBox.
   - Configuración de redes y servicios.
-  - Programacion.
-  - Creación de paginas web.
+  - Instalación y programación en Base de Datos.
+  - Creación de paginas web básicas.
 
 ## 🛠️ Habilidades técnicas
 - **Sistemas operativos**: Linux (Ubuntu), Windows Server.
-- **Servicios de red a internet**: Configuración de routers y switches (Cisco Packet Tracer).
+- **Servicios de red a internet**: Configuración y monitorización en CCNA.
 - **Virtualización**: VirtualBox.
-- **Lenguajes**: HTML, CSS, JavaScript.
-- **Bases de datos**: MySQL, MariaDB.
-- **Ciberseguridad**:Nmap.
+- **Desarrollo web**: HTML, CSS, JavaScript.
+- **Bases de datos**: MySQL, MariaDB, PL/SQL.
+- **Ciberseguridad**:Pentesting, Netstat, nmap, Wireshark.
 
 ## 📂 Proyectos destacados
 ### 1. **Proyecto TFG (Trabajo  fin de grado)**
-- Configuración y monitorización en una red empresarial segura mediante VLANs, VPN y cortafuegos.
-- Trafico de red (Sniffer).
+- Configuración y monitorización en una red empresarial segura mediante VLANs, VPN, cortafuegos y Sniffer.
 - Proyecto creado en Cisco Packet Tracer.
+- En desarrollo.
 
-### 2. **Simulación de una red local**
-- Diseño y configuración de una red LAN con varios subredes usando Cisco Packet Tracer.
-- Configuración de VLANs y enrutamiento.
-
-### 3. **Creacion de pagina web**
+### 2. **Creacion de pagina web**
 - Proyecto de una pagina web diseñada en Visual Studio Code.
-- Diseñada con HTML Y CSS.
+- Diseñada con HTML, CSS y JavaScript.
+- En desarrollo.
 
 ## 📚 Objetivos
 - Ampliar conocimientos en la informática.
-- Desarrollar mis conocimientos en un entorno profesional.
+- Desarrollarme en un entorno profesional.
 
 ## 🌐 Encuéntrame en:
 - [LinkedIn](https://www.linkedin.com/in/angel-garcia-moreno-b44082290/).
